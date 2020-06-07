@@ -1,0 +1,39 @@
+*
+{
+  font-weight: bold;
+}
+.secondBl
+{
+  width: 110%;
+  height: 90vh;
+  background-repeat: no-repeat;
+  background-size: 98% 100%;
+  background-position-y: bottom;
+}
+#menu
+{
+  margin-right: 0px;
+  padding-top: 30px;
+  display: flex;
+  justify-content: space-around;
+}
+#buttonG
+{
+  position: relative;
+  bottom: 17px;
+}
+#Gbutton
+{
+  border: solid;
+  border-radius: 15px;
+}
+button
+{
+  border-style: double;
+  border: black;
+  border-radius: 10px;
+  background-color:unset;
+  margin-right: 150px;
+  margin-bottom: 50px;
+  padding: 15px;
+}
